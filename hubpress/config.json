@@ -2,7 +2,8 @@
   "meta": {
     "username": "tsungmingliu",
     "repositoryName": "tsungmingliu.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "My Sticky Notes",
+    "description": "",
+    "logo": "",
+    "cover": "https://www.softwarehow.com/wp-content/uploads/developer-coding-on-mac.png",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
   }
 }
