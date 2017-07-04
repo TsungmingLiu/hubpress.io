@@ -11,7 +11,11 @@
 
 And a cat.
 
-image::http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg[A cat]
+And 
+
+image::http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg[title="Cat"] 
+
+here is a cat.
 
 
 ---
