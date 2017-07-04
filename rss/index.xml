@@ -1,13 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Sticky Notes]]></title><description><![CDATA[My Sticky Notes]]></description><link>https://tsungmingliu.github.io</link><image><url>https://www.softwarehow.com/wp-content/uploads/developer-coding-on-mac.png</url><title>My Sticky Notes</title><link>https://tsungmingliu.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Jul 2017 02:56:06 GMT</lastBuildDate><atom:link href="https://tsungmingliu.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[This is a test post]]></title><description><![CDATA[<div class="sect1">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Sticky Notes]]></title><description><![CDATA[My Sticky Notes]]></description><link>https://tsungmingliu.github.io</link><image><url>https://www.softwarehow.com/wp-content/uploads/developer-coding-on-mac.png</url><title>My Sticky Notes</title><link>https://tsungmingliu.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Tue, 04 Jul 2017 02:57:55 GMT</lastBuildDate><atom:link href="https://tsungmingliu.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[This is a test post]]></title><description><![CDATA[<div class="sect1">
 <h2 id="__and_some_title_test">&#8230;&#8203;And some title test</h2>
 <div class="sectionbody">
 <div class="paragraph">
 <p>And a cat.</p>
 </div>
+<div class="paragraph">
+<p>And</p>
+</div>
 <div class="imageblock">
 <div class="content">
-<img src="http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg" alt="A cat">
+<img src="http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg" alt="06 train cat shake hands.jpg">
 </div>
+<div class="title">Figure 1. Cat</div>
+</div>
+<div class="paragraph">
+<p>here is a cat.</p>
 </div>
 <hr>
 <div class="paragraph">
