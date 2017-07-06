@@ -1,0 +1,38 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Blogging with HubPress
+
+How to take advantage of GitHub and setup a personal blog in 3 steps.
+
+== Step 1
+
+Branch from the HubPress repo, and rename your cloned repo to username.github.io
+
+== Step 2 
+
+Edit config.json to include your username and site.
+
+== Step 3
+
+Sign in at username.github.io/hubpress and enjoy!
+
+== And...
+
+Here is a cat. 
+
+image::http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg[title="Cat"] 
+
+Gotta love cats.
+
+---
+Here is a code block
+```C++
+int main (){
+	return 0;
+}
+```
