@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Something New Everyday]]></title><description><![CDATA[Learn Something New Everyday]]></description><link>https://tsungmingliu.github.io</link><image><url>https://www.softwarehow.com/wp-content/uploads/developer-coding-on-mac.png</url><title>Learn Something New Everyday</title><link>https://tsungmingliu.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 06 Jul 2017 01:41:40 GMT</lastBuildDate><atom:link href="https://tsungmingliu.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Learn Something New Everyday]]></title><description><![CDATA[Learn Something New Everyday]]></description><link>https://tsungmingliu.github.io</link><image><url>https://www.softwarehow.com/wp-content/uploads/developer-coding-on-mac.png</url><title>Learn Something New Everyday</title><link>https://tsungmingliu.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 06 Jul 2017 01:45:08 GMT</lastBuildDate><atom:link href="https://tsungmingliu.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Blogging with HubPress]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>How to take advantage of GitHub and setup a personal blog in 3 steps.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_step_1">Step 1</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Branch from the HubPress repo, and rename your cloned repo to username.github.io</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_step_2">Step 2</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Edit config.json to include your username and site.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_step_3">Step 3</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Sign in at username.github.io/hubpress and enjoy!</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_and">And&#8230;&#8203;</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Here is a cat.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="http://www.rd.com/wp-content/uploads/sites/2/2016/02/06-train-cat-shake-hands.jpg" alt="06 train cat shake hands.jpg">
+</div>
+<div class="title">Figure 1. Cat</div>
+</div>
+<div class="paragraph">
+<p>Gotta love cats.</p>
+</div>
+<hr>
+<div class="paragraph">
+<p>Here is a code block</p>
+</div>
+<div class="listingblock">
+<div class="content">
+<pre class="highlight"><code class="language-C++" data-lang="C++">int main (){
+	return 0;
+}</code></pre>
+</div>
+</div>
+</div>
+</div>]]></description><link>https://tsungmingliu.github.io/2017/07/05/Blogging-with-Hub-Press.html</link><guid isPermaLink="true">https://tsungmingliu.github.io/2017/07/05/Blogging-with-Hub-Press.html</guid><dc:creator><![CDATA[TsungMing Liu]]></dc:creator><pubDate>Wed, 05 Jul 2017 00:00:00 GMT</pubDate></item></channel></rss>
