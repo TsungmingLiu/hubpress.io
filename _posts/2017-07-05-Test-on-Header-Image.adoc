@@ -1,0 +1,8 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: http://web.emerson.edu/emertainmentmonthly/wp-content/uploads/sites/45/2017/02/hearthstone1-770x481.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+= Test on Header Image
