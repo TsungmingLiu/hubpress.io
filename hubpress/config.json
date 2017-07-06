@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "uno-zen"
+    "name": "casper"
   },
   "urls": {
     "site": "https://tsungmingliu.github.io",
     "hubpress": "https://tsungmingliu.github.io",
-    "theme": "//tsungmingliu.github.io/themes/ichi",
+    "theme": "//tsungmingliu.github.io/themes/uno-zen",
     "images": "https://tsungmingliu.github.io/images"
   },
   "initialisationConfigComponent": {
