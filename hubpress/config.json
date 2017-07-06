@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "ichi"
   },
   "urls": {
     "site": "https://tsungmingliu.github.io",
     "hubpress": "https://tsungmingliu.github.io",
-    "theme": "//tsungmingliu.github.io/themes/casper",
+    "theme": "//tsungmingliu.github.io/themes/ghostium",
     "images": "https://tsungmingliu.github.io/images"
   },
   "initialisationConfigComponent": {
