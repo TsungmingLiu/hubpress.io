@@ -1,0 +1,25 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
+
+
+= 健身現狀 July 2017
+
+== Weight
+推舉 x24
+錘式 x30
+深蹲 x30
+外展 x24
+
+== Jog
+3 Miles @ 6.8 miles/min
+
+== 腹部
+撕裂 x4
+
+
+== 胸肌
+強化 x1
